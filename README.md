@@ -2,6 +2,7 @@
 🏫👨‍🎓WINFORM TOYPROJECT 레포지토리 : 학생 정보 관리 프로그램
 
 <img src="https://github.com/Juhyi/winform-toyproject-2024/blob/main/portfolio/images/title.png" higth= "600" width="500">
+
 ##  🧾프로젝트 소개
 - 학생 성적 관리 프로그램은 C#과 WinForms를 사용하여 개발된 학생 성적 관리 시스템입니다. 이 프로그램은 MSSQL 데이터베이스를 사용하여 데이터를 저장하며, 학생들은 학번으로 로그인하여 자신의 성적을 조회하고 학점을 계산할 수 있습니다. 이 프로그램은 학생들이 자신의 학업 성적을 쉽게 관리할 수 있도록 도와줍니다.
   
